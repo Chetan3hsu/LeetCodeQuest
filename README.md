@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
