@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
