@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1480-running-sum-of-1d-array) |
@@ -43,9 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
