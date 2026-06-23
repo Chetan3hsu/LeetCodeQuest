@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
 | ------- |
