@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
