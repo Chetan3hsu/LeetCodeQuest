@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Chetan3hsu/LeetCodeQuest/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
